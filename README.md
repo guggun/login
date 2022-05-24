@@ -1,12 +1,12 @@
 # Login System
 A Login system with user authentication written using Node.js and Express.js  
 
-###Stack
+Stack:
 - Node.js
 - Express.js (server)
 - Passport (manage user states)
 
-###Features
+Features:
 - Login 
 - Register
 - Logout
